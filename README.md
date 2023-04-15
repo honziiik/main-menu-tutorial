@@ -29,7 +29,7 @@ je to velice jednoduché,
 ## Podpora
 
 Pro jakékoliv dotazy mi napište na discord /Honziiik#4175/, nebo se připojte na můj
-discord server /https://discord.gg/2qnQYVJjeC/ nebo mi napište do komentářů. XD
+discord server /https://discord.gg/2qnQYVJjeC / nebo mi napište do komentářů. XD
 
 ## Autoři
 
