@@ -14,6 +14,8 @@ je to velice jednoduché,
 
 * CTRL + C (složitější verze)
 1. otevřete oba dva scripty jako "raw", (viz screen)
+
+
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/honziiik/main-menu-tutorial/blob/aab15912f47a2d9f3eea05d2d394eb57dd855b4e/raw.png?raw=true)
 
 2. zmáčkněte CTRL + A, pak CTRL + C
