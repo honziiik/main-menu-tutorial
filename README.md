@@ -1,1 +1,2 @@
-# main-menu-tutorial
+# Soubory k návodu na hlavní menu v Unity.
+
